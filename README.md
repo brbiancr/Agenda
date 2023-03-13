@@ -1,4 +1,4 @@
-<h1> Agenda
+<h1> Agenda </h1>
 
 > Status do projeto: Em desenvolvimento
 
